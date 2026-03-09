@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/maksimbystrov/main/refs/heads/main/photo.png" alt="header" height="">
 
 ## ✨ About Me:
-🏫 Graduated from BSTU "VOENMEH", specialization - **“Software Engineering”** <br>💻 More than **2 years** of web development experience <br>🍀 Current tech stack: **React, TypeScript, NextJS, SCSS, TailwindCSS** 
+🏫 Graduated from BSTU "VOENMEH", specialization - **“Software Engineering”** <br>💻 More than **2 years** of web development experience <br>🧩Current tech stack: **React, TypeScript, NextJS, SCSS, TailwindCSS** 
 
 
 ## 💻 Tech Stack:
